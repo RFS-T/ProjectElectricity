@@ -13,10 +13,24 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Libraries">
+      <UniqueIdentifier>{ef789d06-fbab-4051-ba3b-6f898eea753d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Libraries\TLgraphics">
+      <UniqueIdentifier>{1a2923ad-295a-4c20-a3af-b11019b54781}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
-      <Filter>Resource Files</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Interactive.h">
+      <Filter>Libraries\TLgraphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Libraries\TLgraphics</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

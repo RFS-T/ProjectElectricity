@@ -1,0 +1,5 @@
+﻿  Interactive.cpp
+c:\users\kolch\documents\visual studio 2017\projects\repositorys\rfs team repository\projectelectricity\executive\interactive.cpp(6): error C2084: function 'Interactive::Interactive(void)' already has a body
+  c:\users\kolch\documents\visual studio 2017\projects\repositorys\rfs team repository\projectelectricity\executive\interactive.h(11): note: see previous definition of '{ctor}'
+c:\users\kolch\documents\visual studio 2017\projects\repositorys\rfs team repository\projectelectricity\executive\interactive.cpp(11): error C2084: function 'Interactive::~Interactive(void)' already has a body
+  c:\users\kolch\documents\visual studio 2017\projects\repositorys\rfs team repository\projectelectricity\executive\interactive.h(13): note: see previous definition of '{dtor}'
